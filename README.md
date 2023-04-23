@@ -1,5 +1,7 @@
 ## Hey there 👋 My name's Andrew
 
+https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+
 **I'm a Full-Stack (MERN) Web Developer based in Montréal, Québec.**
 
 🎓 Recently graduated from Concordia University's intensive Full-Stack Web Development Bootcamp
