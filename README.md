@@ -1,5 +1,4 @@
-### Hey there 👋 My name's Andrew
-<br/>
+## Hey there 👋 My name's Andrew
 
 **I'm a Full-Stack (MERN) Web Developer based in Montréal, Québec.**
 
