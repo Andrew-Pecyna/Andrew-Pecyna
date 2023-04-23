@@ -1,6 +1,4 @@
-## Hey there 👋 My name's Andrew
-
-https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Andrew</h1>
 
 **I'm a Full-Stack (MERN) Web Developer based in Montréal, Québec.**
 
