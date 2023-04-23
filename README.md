@@ -1,8 +1,8 @@
 ### Hey there 👋 My name's Andrew
 
-** I'm a Full-Stack (MERN) Web Developer based in Montréal, Québec. **
+**I'm a Full-Stack (MERN) Web Developer based in Montréal, Québec.
 
-- 🎓 Recently graduated from Concordia University's intensive Full-Stack Web Development Bootcamp
+🎓 Recently graduated from Concordia University's intensive Full-Stack Web Development Bootcamp
 
 <!--
 **Andrew-Pecyna/Andrew-Pecyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
