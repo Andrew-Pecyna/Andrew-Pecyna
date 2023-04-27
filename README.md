@@ -8,6 +8,8 @@
 
 🌱 I’m currently learning **Typescript, Redux, and Bootstrap** !
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Pecyna&show_icons=true&locale=en" alt="Andrew Pecyna" /></p>
+
 <!--
 **Andrew-Pecyna/Andrew-Pecyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
