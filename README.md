@@ -4,6 +4,10 @@
 
 🎓 Recently graduated from Concordia University's intensive Full-Stack Web Development Bootcamp
 
+🔭 I’m currently working on [BirdFeed](https://github.com/Andrew-Pecyna/Concordia-Final-Project)
+
+🌱 I’m currently learning **Typescript, Redux, and Bootstrap** !
+
 <!--
 **Andrew-Pecyna/Andrew-Pecyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
