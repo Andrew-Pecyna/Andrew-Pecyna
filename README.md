@@ -2,13 +2,13 @@
 
 **I'm a Full-Stack (MERN) Web Developer based in Montréal, Québec.**
 
-🎓 Recently graduated from Concordia University's intensive Full-Stack Web Development Bootcamp
+- 🎓 Recently graduated from Concordia University's intensive Full-Stack Web Development Bootcamp
 
-🔭 I’m currently working on [BirdFeed](https://github.com/Andrew-Pecyna/Concordia-Final-Project)
+- 🔭 I’m currently working on [BirdFeed](https://github.com/Andrew-Pecyna/Concordia-Final-Project)
 
-🌱 I’m currently learning **Typescript, Redux, and Bootstrap** !
+- 🌱 I’m currently learning **Typescript, Redux, and Bootstrap** !
 
-📫 Reach me at: pecyna.andrew@gmail.com
+- 📫 Reach me at: pecyna.andrew@gmail.com
 
 
 
