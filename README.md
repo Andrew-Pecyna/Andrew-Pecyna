@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BirdFeed](https://github.com/Andrew-Pecyna/Concordia-Final-Project)
 
-- 🌱 I’m currently learning **Typescript, Redux, and Bootstrap** !
+- 🌱 I’m currently learning **Typescript** !
 
 - 📫 Reach me at: pecyna.andrew@gmail.com
 
