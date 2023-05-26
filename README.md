@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Pecyna&show_icons=true&locale=en&layout=compact" alt="Andrew Pecyna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Pecyna&show_icons=true&locale=en" alt="Andrew Pecyna" /></p>
+
+-->
