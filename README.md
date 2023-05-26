@@ -10,12 +10,6 @@
 
 - 📫 Reach me at: pecyna.andrew@gmail.com
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Pecyna&show_icons=true&locale=en&layout=compact" alt="Andrew Pecyna" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Pecyna&show_icons=true&locale=en" alt="Andrew Pecyna" /></p>
-
 <!--
 **Andrew-Pecyna/Andrew-Pecyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Pecyna&show_icons=true&locale=en&layout=compact" alt="Andrew Pecyna" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Pecyna&show_icons=true&locale=en" alt="Andrew Pecyna" /></p>
