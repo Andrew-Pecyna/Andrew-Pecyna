@@ -10,8 +10,6 @@
 
 - 📫 Reach me at: pecyna.andrew@gmail.com
 
-- ⚡ Check out my portfolio website here! : [andrew-pecyna.github.io](https://andrew-pecyna.github.io)
-
 <!--
 **Andrew-Pecyna/Andrew-Pecyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
