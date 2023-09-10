@@ -4,7 +4,7 @@
 
 - 🎓 Recently graduated from Concordia University's intensive Full-Stack Web Development Bootcamp
 
-- 🔭 I’m currently working on [OpenAI Translation and Archive](https://github.com/Andrew-Pecyna/AI-Translation-Project)
+- 🔭 I’m currently working on [transl(ai)te OpenAI Translation and Archive](https://github.com/Andrew-Pecyna/AI-Translation-Project)
 
 - 🌱 I’m currently learning **Typescript** !
 
