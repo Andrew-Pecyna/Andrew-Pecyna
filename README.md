@@ -1,4 +1,10 @@
-I'm a Full-Stack Developer from the Okanagan Valley, BC, who's now living in Montréal, Québec. Coming up with ideas and building out projects, often using React, NodeJS, Typesript, and Python, but I'm expnading my stack all the time! When I'm not at the computer, I'm playing the guitar, reading books, learning languages, or I could be outside in the woods looking for birds as an amateur birdwatcher!
+**Full Stack Web Developer from the Okanagan, BC, now living in Montréal, QC**
+
+Skills: React, NodeJS, Javascript, French, guitar
+
+Learning: Python, C++, SQL, Italian, music production
+
+Likes: Reading books, being outside, learning languages and making music
 
 <!--
 **Andrew-Pecyna/Andrew-Pecyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
