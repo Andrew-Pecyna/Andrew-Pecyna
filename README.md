@@ -1,10 +1,10 @@
 **Full Stack Web Developer from the Okanagan, BC, now living in Montréal, QC**
 
-Skills: React, NodeJS, Javascript, French, guitar
+*Skills*: React, NodeJS, Javascript, French, guitar
 
-Learning: Python, C++, SQL, Italian, music production
+*Learning*: Python, C++, SQL, Italian, music production
 
-Likes: Reading books, being outside, learning languages and making music
+*Likes*: Reading books, being outside, learning languages and making music
 
 <!--
 **Andrew-Pecyna/Andrew-Pecyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
